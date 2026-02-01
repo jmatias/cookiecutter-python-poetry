@@ -5,7 +5,7 @@
 
 [Cookiecutter](https://github.com/cookiecutter/cookiecutter) template for a Python package.
 
-*   GitHub repo: [https://github.com/audreyfeldroy/cookiecutter-pypackage/](https://github.com/audreyfeldroy/cookiecutter-pypackage/)
+*   GitHub repo: [https://github.com/jmatias/cookiecutter-python-poetry](https://github.com/jmatias/cookiecutter-python-poetry.git)
 *   Free software: MIT license
 *   Discord: [https://discord.gg/PWXJr3upUE](https://discord.gg/PWXJr3upUE)
 
@@ -27,7 +27,7 @@ pip install -U cookiecutter
 Generate a Python package project:
 
 ```bash
-cookiecutter https://github.com/audreyfeldroy/cookiecutter-pypackage.git
+cookiecutter https://github.com/jmatias/cookiecutter-python-poetry
 ```
 
 Then:
